@@ -31,6 +31,7 @@
     "menu-selected-color": "#002859",
     "focus-bg-color": "#002859",
     "room-highlight-color": "#002859",
+
     "other-user-pill-bg-color": "#01396B",
     "icon-button-color": "#A9CBE0",
     "togglesw-off-color": "#5590BC",
@@ -58,6 +59,8 @@
   },
   "compound": {
     "--cpd-color-text-action-accent": "#FF4800",
+    "--cpd-color-text-link-external": "#87B5D8",
+
     "--cpd-color-icon-accent-primary": "#FF4800",
     "--cpd-color-icon-accent-tertiary": "#FF4800",
 
@@ -65,10 +68,30 @@
     "--cpd-color-bg-action-primary-hovered": "#E64100",
     "--cpd-color-bg-action-primary-pressed": "#CC3A00",
 
+    "--cpd-color-bg-action-secondary-rest": "#002859",
+    "--cpd-color-bg-action-secondary-hovered": "#01396B",
+    "--cpd-color-bg-action-secondary-pressed": "#002859",
+
     "--cpd-color-border-interactive-primary": "#FF4800",
     "--cpd-color-border-interactive-hovered": "#E64100",
+    "--cpd-color-border-interactive-secondary": "#2F78A5",
+
+    "--cpd-color-bg-canvas-default": "#001523",
+    "--cpd-color-bg-subtle-primary": "#002859",
+    "--cpd-color-bg-subtle-secondary": "#041F33",
+
+    "--cpd-color-text-on-solid-primary": "#FFFFFF",
+    "--cpd-color-icon-on-solid-primary": "#FFFFFF",
 
     "--cpd-color-bg-critical-primary": "#FF4800",
-    "--cpd-color-border-critical-primary": "#FF4800"
+    "--cpd-color-bg-critical-subtle": "#FF4800",
+    "--cpd-color-border-critical-primary": "#FF4800",
+    "--cpd-color-text-critical-primary": "#FFFFFF",
+    "--cpd-color-icon-critical-primary": "#FFFFFF",
+
+    "--cpd-color-bg-info-subtle": "#002859",
+    "--cpd-color-border-info-primary": "#2F78A5",
+
+    "--cpd-color-border-disabled": "#01396B"
   }
 }
