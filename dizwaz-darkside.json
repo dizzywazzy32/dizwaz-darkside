@@ -1,0 +1,74 @@
+{
+  "name": "strat-light",
+  "is_dark": false,
+  "fonts": {
+    "general": "'Helvetica Neue', 'Segoe UI', 'SF Pro Display', Arial, sans-serif",
+    "monospace": "'Fira Code', 'Cascadia Code', 'SF Mono', 'Consolas', monospace"
+  },
+  "colors": {
+    "accent-color": "#FF4800",
+    "accent": "#FF4800",
+    "primary-color": "#2F78A5",
+    "warning-color": "#FF4800",
+    "alert": "#FF4800",
+
+    "sidebar-color": "#001523",
+    "roomlist-background-color": "#F4F7FA",
+    "roomlist-text-color": "#041F33",
+    "roomlist-text-secondary-color": "#2F78A5",
+    "roomlist-highlights-color": "#E0EBF3",
+    "roomlist-separator-color": "#C7D9E8",
+
+    "timeline-background-color": "#FFFFFF",
+    "timeline-text-color": "#041F33",
+    "timeline-text-secondary-color": "#5590BC",
+    "timeline-highlights-color": "#EAF3FA",
+
+    "secondary-content": "#2F78A5",
+    "tertiary-content": "#6F9CC3",
+
+    "reaction-row-button-selected-bg-color": "#D6E6F2",
+    "menu-selected-color": "#D6E6F2",
+    "focus-bg-color": "#D6E6F2",
+    "room-highlight-color": "#D6E6F2",
+    "other-user-pill-bg-color": "#A9CBE0",
+    "icon-button-color": "#2F78A5",
+    "togglesw-off-color": "#87B5D8",
+
+    "username-colors": [
+      "#2F78A5",
+      "#5590BC",
+      "#6F9CC3",
+      "#87B5D8",
+      "#01396B",
+      "#002859",
+      "#FF4800",
+      "#041F33"
+    ],
+    "avatar-background-colors": [
+      "#CFE8FF",
+      "#A9CBE0",
+      "#87B5D8",
+      "#6F9CC3",
+      "#5590BC",
+      "#2F78A5",
+      "#01396B",
+      "#002859"
+    ]
+  },
+  "compound": {
+    "--cpd-color-text-action-accent": "#FF4800",
+    "--cpd-color-icon-accent-primary": "#FF4800",
+    "--cpd-color-icon-accent-tertiary": "#FF4800",
+
+    "--cpd-color-bg-action-primary-rest": "#FF4800",
+    "--cpd-color-bg-action-primary-hovered": "#E64100",
+    "--cpd-color-bg-action-primary-pressed": "#CC3A00",
+
+    "--cpd-color-border-interactive-primary": "#FF4800",
+    "--cpd-color-border-interactive-hovered": "#E64100",
+
+    "--cpd-color-bg-critical-primary": "#FF4800",
+    "--cpd-color-border-critical-primary": "#FF4800"
+  }
+}
